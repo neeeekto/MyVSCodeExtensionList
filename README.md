@@ -14,3 +14,6 @@ https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
 
 Wallabyjs
 https://wallabyjs.com
+
+GitLens
+https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
